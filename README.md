@@ -1,1 +1,1 @@
-# Paradigmas-de-Programacion
+# Algoritmos y Programacion 
